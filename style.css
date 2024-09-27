@@ -1,0 +1,33 @@
+/*
+Namn: Anton Svedin
+Klass: TE23C
+*/
+
+body{
+    background-image: url(img/light-soft-color-blue-low-poly-crystal-background-polygon-design-pattern-low-poly-illustration-low-polygon-background-free-vector.jpg);
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color: #4599FE;
+    background-color: #031E49;
+    text-align: right;
+}
+
+ul{
+    background-color: #031E49;
+}
+
+a{
+    color: orange;
+}
+
+a:hover{
+    color: red;
+    background-color: pink;
+}
+
+img{
+    height:267px ;
+    width:474px;
+}
